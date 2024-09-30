@@ -9,4 +9,8 @@ pasti tetap semangat...
 
 ### belajar three way merge - develop
 
+ini adalah fitur baru
+
+ini adalah fitur baru
+
 ini adalah peruabahan di branch utama
